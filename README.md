@@ -149,6 +149,10 @@ The Manager has all the permissions:
 - ``patch:drinks``
 - ``delete:drinks``
 
+### Postman:
+ 
+Exported collection with configured tokens can be found at: `/backend/udacity-fsnd-udaspicelatte.postman_collection.json`.
+
 ## Deployment N/A
 
 ## Authors
