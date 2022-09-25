@@ -6,7 +6,7 @@ All backend code follows [PEP8 style guidelines](https://www.python.org/dev/peps
 
 ## Guidelines
 
-At each stage, there are various 'TODO's marked. You'll also notice some TODOs in the frontend section. These have all been completed. 
+At each stage, there are various TODOs marked. You'll also notice some TODOs in the frontend section. These have all been completed. 
 
 You should feel free to expand on the project in any way you can.
 
